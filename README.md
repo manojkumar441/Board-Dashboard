@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Board Dashboard
 
 A modern, responsive analytics dashboard and authentication system built with **React.js and Vite**, styled with **Tailwind CSS**, featuring interactive **Recharts** visualizations, **Axios** data fetching, and **Google OAuth** integration.
@@ -148,3 +149,6 @@ npm run build
 
 ## License
 MIT
+=======
+# Board-Dashboard
+>>>>>>> 92b3d1db1eab33e39863a8aadda232c7b9ded607
